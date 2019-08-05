@@ -11,7 +11,7 @@
     },
     "target_overrides": {
         "*": {
-            "platform.stdio-convert-newlines": true
+            "platform.stdio-convert-newlines": true,
             "wizfi360.provide-default" : true
         }
     }
