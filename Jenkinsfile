@@ -17,7 +17,7 @@ def targets = [
   //"REALTEK_RTL8195AM": ["internal"],  // Disabled from Mbed OS after ArmCC6
   "K64F": ["esp8266-driver"],
   "NUCLEO_F429ZI": ["esp8266-driver"]
-  "NUCLEO_F411RE": ["wizfi360-driver"]
+  "NUCLEO_F401RE": ["wizfi360-driver"]
   ]
 
 // Map toolchains to compilers
